@@ -1,4 +1,4 @@
-package com.example.lesionx.skinlesionvit.skinlesionvit
+﻿package com.example.skinlesionvit
 
 import android.content.Intent
 import android.graphics.Bitmap
